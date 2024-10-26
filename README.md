@@ -4,13 +4,15 @@ Stock Segmentation using Hierarchical and K-means Clustering
 
 • Applied hierarchical and k-means clustering algorithms to segment and analyze stock data on the basis of some financial indicators like ROE, earnings per share, P/E ratio, etc. for improved insights. 
 
-• Clusteredthestocksintofoursegmentsonthebasisoftheabovefinancialmetrics.
+• Clustered the stocks into four segments on the basis of the above financial metrics.
 
 
 Data Description
 The data provided is of stock prices and some financial indicators like ROE, earnings per
 share, P/E ratio, etc.
-Data Dictionary
+Data Dictionary:
+
+
 • Ticker Symbol: An abbreviation used to uniquely identify publicly traded shares of
 a particular stock on a particular stock market
 
